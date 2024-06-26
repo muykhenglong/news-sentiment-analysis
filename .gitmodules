@@ -1,0 +1,3 @@
+[submodule "news_sentiment_analysis_ml"]
+	path = news_sentiment_analysis_ml
+	url = https://github.com/muykhenglong/news_sentiment_analysis_ml
