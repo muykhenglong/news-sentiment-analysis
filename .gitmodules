@@ -1,3 +1,6 @@
 [submodule "news_sentiment_analysis_ml"]
 	path = news_sentiment_analysis_ml
 	url = https://github.com/muykhenglong/news_sentiment_analysis_ml
+[submodule "news_sentiment_analysis_vader"]
+	path = news_sentiment_analysis_vader
+	url = https://github.com/muykhenglong/news_sentiment_analysis_vader
